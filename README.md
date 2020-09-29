@@ -1,7 +1,6 @@
 # Brain PET sim + recon
 A C+Matlab-based PET simulation and reconstruction software, enabling realistic brain simulations, e.g. dynamic PiB PET imaging on the High Resolution Research Tomograph (HRRT).
 
- 
 *Arman Rahmim, PhD; Nov 1, 2019*
 
 ## Summary
