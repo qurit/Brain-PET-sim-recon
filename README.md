@@ -40,7 +40,7 @@ Kinetic parameters used to generate TACs for different regions are defined here 
 
 This program uses Eq. 16 and 17 in the paper of ours below which are standard compartmental modeling equations (2-tissue model).
 
-[3.5D dynamic PET image reconstruction incorporating kinetics-based clusters](https://rahmimlab.files.wordpress.com/2015/06/lu_pmb12_35d_dynamic_pet_image_reconstruction.pdf)
+> [3.5D dynamic PET image reconstruction incorporating kinetics-based clusters](https://rahmimlab.files.wordpress.com/2015/06/lu_pmb12_35d_dynamic_pet_image_reconstruction.pdf)
 > -- <cite>Lijun Lu et al, Phys. Med. Biol., 2012.</cite>
 
 
