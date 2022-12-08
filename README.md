@@ -11,6 +11,12 @@ A C+Matlab-based PET simulation and reconstruction software, enabling realistic 
 - Incorporate attenuation and normalization modeling
 - Can simulate dynamic PET studies, with an initial table of kinetic K values; e.g. our default example performs dynamic PiB PET studies
 
+## Reference
+Please use the following reference if you publish results with help from this software tool:
+A. Rahmim, Y. Zhou, J. Tang, L. Lu, V. Sossi, and D. F. Wong
+Direct 4D parametric imaging for linearized models of reversibly binding PET tracers using generalized AB-EM reconstruction
+Phys. Med. Biol., vol. 57, pp. 733-755, 2012.
+
 ## Folder Structure
 There are two folders:
 - `hrrt_open_2010-10-15_r234B`
