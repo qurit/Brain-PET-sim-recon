@@ -14,8 +14,8 @@ A C+Matlab-based PET simulation and reconstruction software, enabling realistic 
 ## Reference
 Please use the following reference if you publish results with help from this software tool:
 
-A. Rahmim, Y. Zhou, J. Tang, L. Lu, V. Sossi, and D. F. Wong
-Direct 4D parametric imaging for linearized models of reversibly binding PET tracers using generalized AB-EM reconstruction
+A. Rahmim, Y. Zhou, J. Tang, L. Lu, V. Sossi, and D. F. Wong  
+Direct 4D parametric imaging for linearized models of reversibly binding PET tracers using generalized AB-EM reconstruction  
 Phys. Med. Biol., vol. 57, pp. 733-755, 2012.
 
 ## Folder Structure
