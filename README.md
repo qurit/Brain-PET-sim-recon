@@ -3,6 +3,10 @@ A C+Matlab-based PET simulation and reconstruction software, enabling realistic 
 
 *Arman Rahmim, PhD; Nov 1, 2019*
 
+# Download
+You can download the folder here (~1.3GB):
+https://1drv.ms/u/s!AqTzxnxy6vxCi55J-7k7nRVLikodCQ?e=8edCeh
+
 ## Summary
 - Analytic simulation of (dynamic) PET sinograms
 - Begins with realistic computational human brain phantom
